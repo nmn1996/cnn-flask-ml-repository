@@ -10,6 +10,6 @@ Below are the steps for the overall deployment and accessing the model interefer
 
 4. We then create docker image from the Dockerfile as per below .
 
-image.png
+![Alt text](/Users/guptanam/Desktop/ml-images/Dockerbuild.png)
 
 5.
